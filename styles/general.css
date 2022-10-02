@@ -14,3 +14,8 @@
     color: white;
     font-size: 28px;
 }
+
+.header:hover {
+    font-size: 33px;
+    transition-duration: 500ms;
+}
